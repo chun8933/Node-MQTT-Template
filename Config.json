@@ -1,0 +1,10 @@
+{
+  "MQTTPort" : 8883,
+  "MQTTQos" : 1,
+  "MQTTTopic" : "THE_TOPIC",
+  "MQTTCAFilePath" : "THE_CERT",
+  "MQTTHost" : "THE_IP",
+  "MQTTUsername" : "THE_USERNAME",
+  "MQTTPassword" : "THE_PASSWORD",
+  "Env" : "UAT"
+}
